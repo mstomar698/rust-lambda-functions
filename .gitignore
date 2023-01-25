@@ -1,2 +1,9 @@
 target
 COMMAND_SCRIPT.md
+
+
+# Added by cargo
+
+/target/*
+target
+*/target/**
